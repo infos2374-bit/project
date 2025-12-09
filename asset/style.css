@@ -7,7 +7,7 @@
 
 body {
   min-height: 100vh;
-  background-color: #f7f7f7;
+  background-color: #ff00c3;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -48,6 +48,6 @@ flex: 1;
 }
 
 .box-right {
-  background-color: #35ed07;
+  background-color: #000000;
 flex: 2;
 }
