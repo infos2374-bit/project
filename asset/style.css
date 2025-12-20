@@ -1,0 +1,21 @@
+body {
+    background-color: #252526;
+}
+html{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.box-1 {
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.box {
+    background-color: #3c3c3c;
+    border-radius: 10px;
+}
+
+.title {
+    background-color: rgb(74, 73, 79);
+    border-radius: 10px;
+}
